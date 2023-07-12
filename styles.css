@@ -1,0 +1,143 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+}
+.hero {
+    background-color: #1f2937;
+    color: #e5e7eb;
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 98px;
+    padding-top: 12px;
+    padding-bottom: 64px;
+    width: 1100px;
+}
+.main {
+    display: flex;
+    width: 970px;
+    padding-left: 100px;
+    padding-bottom: 70px;
+    gap: 80px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #e5e7eb;
+    background-color: #1f2937;
+    font-size: 18px;
+    padding: 16px;
+}
+.hero-main-text {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+.header-link-text,
+.hero-secondary-text {
+    font-size: 18px;
+    color: #e5e7eb;
+
+}
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    width: 620px;
+    flex-wrap: wrap;
+    margin: auto;
+    text-align: center;
+}
+.info {
+    flex: 1;
+}
+ul,
+a {
+    list-style: none;
+    text-decoration: none;
+    color: #e5e7eb;
+
+}
+.header-logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-radius: 4px;
+    border: #1f2937;
+}
+h3 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    text-align: center;
+}
+.quote-section {
+    background-color: #e5e7eb;
+    padding: 80px;
+    margin-top: 80px;
+}
+.quote {
+    font-size: 36px;
+    color: rgb(69, 68, 68);
+    width: 750px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 130px;
+    margin-left: 140px;
+}
+.author {
+    width: 1000px;
+    font-size: 18px;
+    font-weight: 600;
+    color: black;
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.call-to-action {
+    background-color: #3882f6;
+    color: #f9faf8;
+    width: 850px;
+    margin: 120px;
+    padding: 32px 90px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.call-button {
+    align-self: center;
+}
+
+
+ul {
+    display: flex;
+    gap: 12px;
+    padding-right: 130px;
+    padding-top: 0%;
+}
+#signupBtn {
+    border: 1px solid #f9faf8;
+    color: #f9faf8;
+    font-size: 12px;
+    font-weight: 500;
+    padding: 4px 16px;
+}
+.sign {
+    font-size: 12px;
+    margin-right: auto;
+}
+.header-link-text {
+    margin-top: 0%;
+}
