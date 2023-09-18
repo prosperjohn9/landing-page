@@ -1,8 +1,4 @@
-# My-First-Project
-This is my first project in HTML/CSS
-
-
-
+# Landing Page
 I created a landing page using just html and css
 
 
