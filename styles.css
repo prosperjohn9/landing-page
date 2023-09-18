@@ -39,6 +39,11 @@ body {
     font-size: 18px;
     padding: 16px;
 }
+.footer img {
+    width: 24px;
+    height: 24px;
+    margin-left: 4px;
+}
 .hero-main-text {
     font-size: 48px;
     font-weight: bolder;
