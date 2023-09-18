@@ -1,9 +1,9 @@
 # Landing Page
-I created a landing page using just html and css
+I created a landing page using just html and css.
 
 
 
-Recreated this from a picture sample
+Recreated this from a picture sample.
 
 
 
@@ -32,4 +32,4 @@ Project Design File: [landing-page.png](https://cdn.statically.io/gh/TheOdinProj
 Colors and Fonts: [colors-and-fonts.png](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/02.png)
 
 # Objectives
-Build a page based on the Provided Assets
+Build a page based on the Provided Assets.
